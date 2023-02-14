@@ -21,6 +21,7 @@ The connection goes through I2C to the microcontroller board
   * https://gist.github.com/JeremySCook/6a765582dba6675388aa887f856dd6bf
   * https://github.com/adafruit/Adafruit_SSD1306
   * https://github.com/olikraus/u8g2/wiki
+  * https://www.arduinolibraries.info/libraries/esp8266-and-esp32-oled-driver-for-ssd1306-displays
   
 - document how it should be connected to the MCU board
 - document how the driver should be separated (MPU independent abstraction through I2C driver)
